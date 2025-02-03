@@ -1,35 +1,9 @@
 <header>
 
-![Sin título-2](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+
+![VFX_2025-02-03_048](https://github.com/user-attachments/assets/82896dcf-0228-4c44-a59a-285a7d1b45d4)
 
 # Hologram Sci-Fi Screen
 
-_Descripción_
+_Shader Unity 6 URP, Fake depth whith cubemap_
 
-</header>
-
-## Subtitulo
-
-Descripción :tada: :keyboard: 
-
-Asi se hacen hypervinculos [repository](https://github.com/JaimeCamachoDev/Template?tab=readme-ov-file#titulo).
-
-### Encabezado
-
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-</footer>
