@@ -5,5 +5,5 @@
 
 # Hologram Sci-Fi Screen
 
-_Shader Unity 6 URP, Fake depth whith cubemap_
+_Shader Unity 6 URP, Fake depth with cubemap_
 
